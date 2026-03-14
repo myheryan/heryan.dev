@@ -13,15 +13,7 @@ Sebuah ruang digital pribadi dan portofolio yang dibangun untuk menceritakan per
 
 </div>
 
----
-
-## 📸 Preview
-
-> **Catatan:** Ganti tautan gambar di bawah ini dengan *screenshot* portofolio Anda saat sudah selesai.
-
-<div align="center">
-  <img src="https://via.placeholder.com/1000x600/18181b/ffffff?text=Screenshot+Portofolio+Heryan" alt="Heryan Portfolio Preview" width="100%" />
-</div>
+--->
 
 ## ✨ Fitur Utama
 
@@ -31,13 +23,13 @@ Sebuah ruang digital pribadi dan portofolio yang dibangun untuk menceritakan per
 - **Responsive Design:** Tata letak yang beradaptasi sempurna dari layar ponsel hingga monitor *ultrawide*.
 - **Dark Mode Optimized:** Dibangun dengan skema warna gelap bawaan yang ramah di mata.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (The Future Edition)
 
-- **Framework:** [Next.js 14 (App Router)](https://nextjs.org/)
-- **Bahasa:** [TypeScript](https://www.typescriptlang.org/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Komponen UI:** [Shadcn UI](https://ui.shadcn.com/) & [Radix UI](https://www.radix-ui.com/)
-- **Ikon:** [Lucide React](https://lucide.dev/)
+- **Framework:** Next.js 16.1.6 (Latest stable)
+- **Library:** React 19.2.3 (Concurrent Mode)
+- **Compiler:** React Compiler enabled 🚀
+- **Styling:** Tailwind CSS v4 (Engine baru yang lebih cepat)
+- **Animation:** tw-animate-css
 
 ## 🚀 Instalasi & Menjalankan di Lokal
 
