@@ -15,14 +15,6 @@ Sebuah ruang digital pribadi dan portofolio yang dibangun untuk menceritakan per
 
 --->
 
-## ✨ Fitur Utama
-
-- **Modern & Clean UI:** Antarmuka pengguna bergaya Radix UI dengan radius batas (*border-radius*) minimalis dan presisi tipografi yang tinggi.
-- **Single Page Application (SPA) Feel:** Menggunakan komponen navigasi *Tabs* untuk perpindahan halaman (Profile ke Projects) tanpa *reload*, memberikan pengalaman secepat kilat.
-- **Scrapbook Photo Style:** Elemen desain *brutalism/scrapbook* pada foto profil untuk memberikan sentuhan personal dan artistik di tengah desain yang *clean*.
-- **Responsive Design:** Tata letak yang beradaptasi sempurna dari layar ponsel hingga monitor *ultrawide*.
-- **Dark Mode Optimized:** Dibangun dengan skema warna gelap bawaan yang ramah di mata.
-
 ## 🛠️ Tech Stack (The Future Edition)
 
 - **Framework:** Next.js 16.1.6 (Latest stable)
